@@ -1,0 +1,136 @@
+{
+    "Sheet1": [
+        {
+            "ID1": "1",
+            "ID2": "1",
+            "ID3": "1",
+            "ID": "1.1.1",
+            "Phase": "Category Management",
+            "Service": "Category Insights",
+            "Activity": "Spend categorisation",
+            "Description": "Ensure all spend is categorised, including reviewing and updating categorisation",
+            "Team": "Procurement Intelligence"
+        },
+        {
+            "ID1": "1",
+            "ID2": "1",
+            "ID3": "2",
+            "ID": "1.1.2",
+            "Phase": "Category Management",
+            "Service": "Category Insights",
+            "Activity": "Category metric calculation",
+            "Description": "Spend by supplier, contract and PO compliance (%)",
+            "Team": "Procurement Intelligence"
+        },
+        {
+            "ID1": "1",
+            "ID2": "1",
+            "ID3": "3",
+            "ID": "1.1.3",
+            "Phase": "Category Management",
+            "Service": "Category Insights",
+            "Activity": "Perform category market analysis for external suppliers",
+            "Description": "Analyse market for category goods/services to support the category strategy developed by the decision team. ",
+            "Team": "Contract Sourcing"
+        },
+        {
+            "ID1": "1",
+            "ID2": "2",
+            "ID3": "1",
+            "ID": "1.2.1",
+            "Phase": "Category Management",
+            "Service": "Decision team engagement",
+            "Activity": "Administrate and facilitate sessions",
+            "Description": "Booking in, share pre-reads etc. ",
+            "Team": "Contract Sourcing"
+        },
+        {
+            "ID1": "1",
+            "ID2": "2",
+            "ID3": "2",
+            "ID": "1.2.2",
+            "Phase": "Category Management",
+            "Service": "Decision team engagement",
+            "Activity": "Drive user directed clinical outcomes achieved through collaboration with end users",
+            "Description": "Co-ordinate category management with Subject Matter Experts and Sourcing team",
+            "Team": "Contract Design"
+        },
+        {
+            "ID1": "1",
+            "ID2": "2",
+            "ID3": "3",
+            "ID": "1.2.3",
+            "Phase": "Category Management",
+            "Service": "Decision team engagement",
+            "Activity": "Local support and cross-site engagement",
+            "Description": "Engage with local decision team members throughout process to support / answer queries",
+            "Team": "Hospital Procurement Directors"
+        },
+        {
+            "ID1": "1",
+            "ID2": "2",
+            "ID3": "4",
+            "ID": "1.2.4",
+            "Phase": "Category Management",
+            "Service": "Decision team engagement",
+            "Activity": "Submission of category plans for approval",
+            "Description": "Includes drafting of category plan, Category plan is stored on the P&SC Reporting Hub",
+            "Team": "Contract Sourcing"
+        },
+        {
+            "ID1": "1",
+            "ID2": "2",
+            "ID3": "5",
+            "ID": "1.2.5",
+            "Phase": "Category Management",
+            "Service": "Decision team engagement",
+            "Activity": "Required out-of-cycle engagement with Decision Team members - Clinical",
+            "Description": "Engage with decision team members throughout the year to gather feedback on local category management. Escalate issues as required. ",
+            "Team": "Contract Design"
+        },
+        {
+            "ID1": "1",
+            "ID2": "2",
+            "ID3": "6",
+            "ID": "1.2.6",
+            "Phase": "Category Management",
+            "Service": "Decision team engagement",
+            "Activity": "Required out-of-cycle engagement with Decision Team members - Non clinical",
+            "Description": "Engage with decision team members throughout the year to gather feedback on local category management. Escalate issues as required. ",
+            "Team": "Contract Sourcing"
+        },
+        {
+            "ID1": "2",
+            "ID2": "1",
+            "ID3": "1",
+            "ID": "2.1.1",
+            "Phase": "Contract Design",
+            "Service": "Business requirements development - Clinical",
+            "Activity": "Identify product/service end user stakeholders",
+            "Description": "Identify who to include in the business requirements development process e.g. working in the working group",
+            "Team": "Contract Design"
+        },
+        {
+            "ID1": "2",
+            "ID2": "1",
+            "ID3": "2",
+            "ID": "2.1.2",
+            "Phase": "Contract Design",
+            "Service": "Business requirements development - Clinical",
+            "Activity": "Identify contract design working group",
+            "Description": "Dependant on category - identify teams required to make informed decisions",
+            "Team": "Contract Design"
+        },
+        {
+            "ID1": "2",
+            "ID2": "1",
+            "ID3": "3",
+            "ID": "2.1.3",
+            "Phase": "Contract Design",
+            "Service": "Business requirements development - Clinical",
+            "Activity": "Identify stakeholders for business requirements approval",
+            "Description": "Identify who will be required to approve the business requirements",
+            "Team": "Contract Design"
+        }
+    ]
+}

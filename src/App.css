@@ -1,0 +1,206 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.col_td{
+  padding:10px 20px;
+}
+
+.col_th{
+  color: grey;
+    background: #fff8f8;
+    padding: 0px 5px;
+}
+
+.col_table{
+  width:100%;
+  padding:2px 5px
+}
+
+.Modal {
+  position: absolute;
+  top: 40px;
+  left: 40px;
+  right: 40px;
+  bottom: 40px;
+  background-color: papayawhip;
+}
+
+.Overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rebeccapurple;
+}
+
+.mdb_td_w3{
+  width: 30%;
+  font-weight: bold;
+}
+
+.mdb_td_w7{
+  width: 70%;
+  padding: 5px;
+}
+
+.mdb_td_w2{
+
+}
+
+.md_table{
+  min-width: 500px;
+  width: 100%;
+}
+
+.MuiDialogContent-root {
+  overflow-y: unset !important;
+}
+
+.MuiDialog-paperScrollPaper {
+  max-height: calc(100% - 35px) !important;
+}
+
+.MuiDialogContent-dividers {
+  border-top: 0px solid rgba(0, 0, 0, 0.12) !important;
+  border-bottom: 0px solid rgba(0, 0, 0, 0.12) !important;
+}
+
+.btn_collapse{
+  margin:5px
+}
+
+.MuiTableCell-root {
+  padding:1px !important
+}
+
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 51; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 50%;
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.custom_btn {
+  background-color: #ff606d;
+    border: none;
+    color: white;
+    padding: 8px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+.taskTable {
+  width:100%;
+} 
+
+.taskTable tr {
+  margin-bottom:5mm;
+} 
+
+.taskTable td {
+  border: 1px solid rgba(200,200,200);
+  padding:5px;
+}  
+   
+  .taskTable td:nth-child(1) {
+      color:black;
+      background-color: rgba(245,205,102,1);
+      text-align:right;
+      width:80px;
+      border-top-left-radius: 2mm;
+      border-bottom-left-radius: 2mm;
+  }        
+            
+  .taskTable td:nth-child(2) {
+      background-color:white;
+      border-top-right-radius: 2mm;
+      border-bottom-right-radius: 2mm;
+  }   
+
+.taskDescriptionTable tr {
+  margin-bottom:5mm;
+} 
+
+.taskDescriptionTable td {  
+  border: 1px solid rgba(200,200,200);
+  padding:5px;
+}  
+    
+  .taskDescriptionTable tr:nth-child(1) td {
+    color:black;
+    background-color: rgba(245,205,102,1);
+    text-align:center;
+    border-top-left-radius: 2mm;
+    border-top-right-radius: 2mm;
+  }
+  .taskDescriptionTable tr:nth-child(2) td {
+    background-color:white;
+    text-align:left;
+    border-bottom-left-radius: 2mm;
+    border-bottom-right-radius: 2mm;
+    height:80px;
+    vertical-align: top;
+  }
